@@ -1,0 +1,19 @@
+body{
+    background: magenta;
+    padding: 0;
+}
+p{
+  background: navy;
+  position: absolute;
+  top: 50%;
+  font-size: 35px;
+  margin: 1;
+}
+
+#p1 {
+    left: 30%;
+}
+
+#p2 {
+  right: 30%;
+}

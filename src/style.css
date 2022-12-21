@@ -1,0 +1,14 @@
+p{
+  backgound: navy;
+  position: absolute;
+  top: 50%;
+  font-size: 35px;
+}
+
+#p1 {
+    left: 34%;
+}
+
+#p2 {
+  right: 34%;
+}
